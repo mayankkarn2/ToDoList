@@ -1,14 +1,15 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Backend for ToDo List built using MEAN ",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mayank Kumar Karn",
+  "author": "Mayank Karn",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
   }
 }
